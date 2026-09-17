@@ -38,8 +38,6 @@
 
 <div align="center">
 
-### 🐎 `THE FRONTIER IS WIDE.`
-
 *Keep learning. Keep building. Keep riding.*
 
 </div>
