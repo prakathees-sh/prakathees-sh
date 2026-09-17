@@ -7,7 +7,7 @@
 *“Keep your eyes on the horizon.”*
 
 <img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=20&duration=3000&pause=1000&color=C9B28A&center=true&vCenter=true&width=550&lines=Learning.+Building.+Exploring.;Outlaw+To+The+End;We+Each+Got+...+Fifteen+Dollars.+Oh,+ and +a+ quatrer.+Don't+Forget the Quarter"/>
-We each got... fifteen dollars. Oh, and a quarter. Don't forget the quarter.
+
 </div>
 
 ---
