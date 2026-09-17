@@ -38,25 +38,8 @@
 
 ---
 
-## 🔥 Current Mission
 
-```text
-▸ Strengthening C++ & DSA
-▸ Building real-world projects
-▸ Exploring Cybersecurity
-▸ Learning Linux & system internals
-▸ Contributing to Open Source
-```
 
----
-
-## 🛠️ Projects
-
-> 🚧 New projects are being built...
-
-Check out my repositories for the latest work.
-
----
 
 📜 CONTRIBUTION TRAIL
 
