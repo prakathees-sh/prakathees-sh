@@ -11,10 +11,9 @@
 
 🎓 B.Sc Computer Science Student
 💻 Software & Web Development
-🐧 Arch Linux + Hyprland
 🔐 Exploring Cybersecurity
 🧠 Learning C++ • DSA • Python
-🎮 Story & open-world game enthusiast
+🎮 Story & open-world game enthusiast 
 
 ---
 
