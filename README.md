@@ -58,13 +58,11 @@ Check out my repositories for the latest work.
 
 ---
 
-## 📊 GitHub
+📜 CONTRIBUTION TRAIL
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=prakathees-sh&show_icons=true&hide_border=true&bg_color=181818&title_color=C9B28A&text_color=E6D5B8&icon_color=C9B28A" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakathees-sh&layout=compact&hide_border=true&bg_color=181818&title_color=C9B28A&text_color=E6D5B8" height="170"/>
+<img src="https://streak-stats.demolab.com?user=prakathees-sh&hide_border=true&background=181818&ring=C9B28A&fire=C9B28A&currStreakLabel=E6D5B8&sideLabels=E6D5B8&currStreakNum=E6D5B8&sideNums=E6D5B8&dates=8C806D"/>
 
 </div>
 
