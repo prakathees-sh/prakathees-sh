@@ -53,8 +53,5 @@
 *Keep learning. Keep building. Keep riding.*
 
 </div>
-<h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/prakathees-sh/prakathees-sh/output/github-contribution-grid-snake.svg" width="900"/>
 </p>
