@@ -7,15 +7,6 @@
 
 ---
 
-## 📰 About Me
-
-🎓 B.Sc Computer Science Student
-💻 Software & Web Development
-🔐 Exploring Cybersecurity
-🧠 Learning C++ • DSA • Python
-🎮 Story & open-world game enthusiast 
-
----
 
 ## 🐎 Tech Stack
 
